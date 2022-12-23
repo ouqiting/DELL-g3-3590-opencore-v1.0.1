@@ -27,6 +27,6 @@ Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.4`
 ✅prtScr 键禁用触摸板和 winKey + prtScr 禁用键盘 <br>
 
 ##  什么不起作用 <br>
-❌内置麦克风（Mac 不支持智能声音技术）
-❌GTX 1650
+❌内置麦克风（Mac 不支持智能声音技术） <br>
+❌GTX 1650 <br>
 ❌无线网卡（使用usb网卡代替）
