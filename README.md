@@ -32,16 +32,9 @@ Model | `MacBookPro16,4` | OS | `Monterey 12.5` | OC | `0.8.4`
 ✅  Restart, Sleep and Shutdown (With and without Closing LID) <br>
 ✅  CPU Power Management <br>
 
-Idle                                                  |   Boost 
----                                                   |    --- 
-<img src="Images/idle.png" width="600" height="500">  |   <img src="Images/boost.png" width="500" height="500">
-
 ---
 
 ✅  Internal speaker , headphone (with microphone)<br>
-HeadPhone                                              |    Mic 
----                                                    |    --- 
-<img src="Images/sound.png" width="500" height="500">  |   <img src="Images/headphone%20mic.png" width="500" height="500">
 
 ---
 
@@ -49,9 +42,6 @@ HeadPhone                                              |    Mic
 
 ✅  Touchpad (SSDT Patche Interrupt GPIO Pinning) 'note that acpibattery.kext causes touchpad lag , using smcbatterymanager.kext fixed the issue' <br>
 
-Settings                                                  |    Geni2c 
----                                                       |    --- 
-<img src="Images/touchpad.png" width="500" height="500">  |    <img src="Images/touchpad2.png" width="500" height="500"> 
 
 ---
 
@@ -60,7 +50,7 @@ Settings                                                  |    Geni2c
 ✅  Ethernet  
 ✅  Wifi <br>
 ✅  Bluetooth <br>
-<img src="Images/Bluetooth.png" width="500" height="500">
+
 
 ✅  All USB Port (including usb type c) <br>
 ✅  External Monitor work with type c cable <br>
