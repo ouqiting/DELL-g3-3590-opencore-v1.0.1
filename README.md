@@ -23,7 +23,7 @@ Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.4`
 
 ✅所有 USB 端口（包括type-c） <br>
 ✅外接显示器使用type-c <br>
-✅prtScr 键禁用触摸板和 winKey + prtScr 禁用键盘 <br>
+
 
 ##  什么不起作用 <br>
 ❌内置麦克风（Mac 不支持智能声音技术） <br>
