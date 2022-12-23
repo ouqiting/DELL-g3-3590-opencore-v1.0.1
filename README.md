@@ -20,7 +20,7 @@ Bios      | 1.9.0 `Recommended`
 
 ## System configuration
 
-Model | `MacBookPro16,4` | OS | `macOS Ventura` | OC | `0.8.4`
+Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.4`
 ---|---|---|---|---|---
 
 ![](Images/about.png)
