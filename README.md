@@ -21,8 +21,8 @@ Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.4`
 ✅以太网 <br>
 ✅蓝牙 <br>
 
-✅所有 USB 端口（包括 USB 类型 c） <br>
-✅外接显示器使用 C 型电缆 <br>
+✅所有 USB 端口（包括type-c） <br>
+✅外接显示器使用type-c <br>
 ✅prtScr 键禁用触摸板和 winKey + prtScr 禁用键盘 <br>
 
 ##  什么不起作用 <br>
