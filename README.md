@@ -1,6 +1,5 @@
 # Hackintosh-Dell-g3-15-3590<br>
 
-## Laptop Specifications
 ## configuration
 
 Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.4`
