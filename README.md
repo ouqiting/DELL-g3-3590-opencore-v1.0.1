@@ -1,4 +1,3 @@
-## 下载：https://github.com/ouqiting/DELL-g3-3590-opencore-v0.8.7/releases
 # Hackintosh-Dell-g3-15-3590<br>
 
 ## configuration
