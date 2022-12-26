@@ -1,9 +1,9 @@
-## 下载：https://github.com/ouqiting/DELL-g3-3590-opencore-v0.8.4/releases
+## 下载：https://github.com/ouqiting/DELL-g3-3590-opencore-v0.8.7/releases
 # Hackintosh-Dell-g3-15-3590<br>
 
 ## configuration
 
-Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.4`
+Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.7 
 ---|---|---|---|---|---
 
 
