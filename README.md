@@ -2,7 +2,7 @@
 
 ## configuration
 
-Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.8 
+Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.8` 
 ---|---|---|---|---|---
 
 
