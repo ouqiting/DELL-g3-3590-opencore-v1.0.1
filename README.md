@@ -21,12 +21,13 @@ Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.8`
 ✅电池指示灯 <br>
 ✅以太网 <br>
 ✅蓝牙 <br>
+✅无线网卡 <br>
 
 ✅所有 USB 端口（包括type-c）<br>
 ✅外接显示器使用type-c <br>
 
 
+
 ##  什么不起作用 <br>
 ❌内置麦克风（Mac 不支持智能声音技术） <br>
 ❌独立显卡 <br>
-❌无线网卡（使用usb网卡代替）
