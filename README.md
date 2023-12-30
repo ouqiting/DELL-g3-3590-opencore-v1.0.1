@@ -3,7 +3,7 @@
 # 由https://github.com/Amin-0-1/hackintosh-Dell-g3-15-3590- 更改而来
 ## configuration
 
-Model | `MacBookPro16,4` | OS | `macOS Ventura（最新系统）` | OC | `0.8.8` 
+Model | `MacBookPro16,4` | OS | `macOS Ventura` | OC | `0.8.8` 
 ---|---|---|---|---|---
 
 
