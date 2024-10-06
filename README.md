@@ -6,6 +6,7 @@
 Model | `MacBookPro16,4` | OS | `macOS Ventura` | OC | `1.0.1` 
 ---|---|---|---|---|---
 
+## 已更新opencore和内核版本，显已支持最新macos15(Sequoia)!!
 
 
 ##  什么是有效的
@@ -29,4 +30,3 @@ Model | `MacBookPro16,4` | OS | `macOS Ventura` | OC | `1.0.1`
 ##  什么不起作用 <br>
 ❌内置麦克风（Mac 不支持智能声音技术） <br>
 ❌独立显卡 <br>
-❌无线网卡（使用usb网卡代替）
