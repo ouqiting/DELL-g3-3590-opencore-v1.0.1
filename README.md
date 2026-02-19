@@ -1,12 +1,12 @@
 # Hackintosh-Dell-g3-15-3590<br>
 
-# 由他人版本(https://github.com/Amin-0-1/hackintosh-Dell-g3-15-3590-) 更改而来
+# 由[他人版本](https://github.com/Amin-0-1/hackintosh-Dell-g3-15-3590-) 更改而来
 ## configuration
 
 Model | `MacBookPro16,4` | OS | `macOS Ventura` | OC | `1.0.1` 
 ---|---|---|---|---|---
 
-## 已更新opencore和内核版本，现已支持最新macos15(Sequoia)!!
+### 已更新opencore和内核版本，现已支持macos15(Sequoia)
 
 
 ##  什么是有效的
